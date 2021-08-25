@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxipi3141
-- 👀 I’m interested in learning the basiscs of software engineering
+- 👀 I’m interested in learning the basics of software engineering
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on any beginner-level simple projects to develop skills
 - 📫 How to reach me maxbateman.nz@gmail.com
